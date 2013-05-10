@@ -20,7 +20,7 @@ For more details, screenshots and information please visit [Ecommerce Templates 
 
 **Key Features**
 
-* Simply generate the code for an Product Carousel
+* Simply generate the code for a Product Carousel
 * Choose to show products from the whole store or individual categories
 * Set the parameters for the slideshow such as speed, pause etc.
 * For responsive designs choose the breakpoints and number of images
