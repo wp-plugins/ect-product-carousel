@@ -1,0 +1,85 @@
+=== ECT Product Carousel ===
+Contributors: etemplates
+Donate link: http://www.ecommercetemplates.com/donations.asp
+Tags: Wordpress ecommerce, ecommerce, online store, sell products, shopping cart, wordpress store, wordpress shopping cart, ecommerce software, image slider, image gallery, carousel
+Requires at least: 3
+Tested up to: 3.5.1
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Add a sliding product image carousel on your WordPress integrated Ecommerce Templates shopping cart software site.
+
+== Description ==
+
+Add a sliding product image carousel on your WordPress integrated Ecommerce Templates site. Choose between showing products from a specific category or from the whole store and generate the code that can be placed on any of your WordPress pages.
+
+Please note, the ECT Product Carousel plug-in is only available for Ecommerce Templates shopping cart software WordPress integration.
+
+For more details, screenshots and information please visit [Ecommerce Templates for WordPress](http://www.ecommercetemplates.com/wordpress-ecommerce.asp).
+
+**Key Features**
+
+* Simply generate the code for a Product Carousel
+* Choose to show products from the whole store or individual categories
+* Set the parameters for the slideshow such as speed, pause etc.
+* For responsive designs choose the breakpoints and number of images
+* Tweak the display via the css file
+
+**Notes**
+
+The ECT Product Carousel plug-in is only available for Ecommerce Templates shopping cart software WordPress integration.
+
+The ECT Product Carousel is based on the work of [9 Bit Studios](http://9bitstudios.github.io/flexisel/) and we appreciate the permission granted for its use.
+
+**View Demo Store**
+
+We have set up a [demo store](http://ectwp.com/) using the Responsive theme and Ecommerce Templates shopping cart where you will also find a demo of the [Product Carousel plugin](http://ectwp.com/plugins/).
+
+**Support**
+
+If you have any problems with generating the Product Carousel please post your support questions here on the WordPress support forum. Any questions about the shopping cart or WordPress integration can be posted on the Ecommerce Templates support forum. 
+If you have a problem with the plug-in please don't just give it a bad rating or review without seeking our help first.
+
+**Plug-in resources**
+
+[Plug-in home page](http://www.ecommercetemplates.com/wordpress/wp-plugins.asp) - [Shopping cart home page](http://www.ecommercetemplates.com/wordpress-ecommerce.asp) - [Demo](http://ectwp.com/)
+
+== Installation ==
+
+1. Unzip and upload the folder 'ect-product-carousel' to the '/wp-content/plugins/' directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Go to Add New and choose to show products from the whole store or specify a particular category
+1. Go to Settings and set the parameters for the product images
+1. Copy the shortcode and paste where you want the Product Carousel to appear on your site
+
+== Frequently asked questions ==
+
+= Can I use this plug-in with any shopping cart software or WordPress site? =
+
+NO, this plug-in can only be used with [Ecommerce Templates shopping cart software](http://www.ecommercetemplates.com/wordpress-ecommerce.asp) using the WordPress integration.
+
+= Will this plugin work on responsive designs? =
+
+Yes, it will and you can define the breakpoints.
+
+= Can I change the product image size? =
+
+You can do that through the css file.
+
+= Can I have different speed and hover settings on different carousels?  =
+
+No, these are global settings.
+
+== Screenshots ==
+
+1. ECT Product Carousel plugin
+2. ECT Product Carousel admin
+3. Choose product group
+4. Enter carousel settings
+5. Carousel example
+
+== Changelog ==
+
+= 1.0 =
+* Initial Release. May 3rd 2013.
