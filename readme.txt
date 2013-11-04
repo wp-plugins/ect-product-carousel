@@ -3,8 +3,8 @@ Contributors: etemplates
 Donate link: http://www.ecommercetemplates.com/donations.asp
 Tags: Wordpress ecommerce, ecommerce, online store, sell products, shopping cart, wordpress store, wordpress shopping cart, ecommerce software, image slider, image gallery, carousel
 Requires at least: 3
-Tested up to: 3.5.1
-Stable tag: 1.0
+Tested up to: 3.7.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Add a sliding product image carousel on your WordPress integrated Ecommerce Temp
 
 == Description ==
 
-Add a sliding product image carousel on your WordPress integrated Ecommerce Templates site. Choose between showing products from a specific category or from the whole store and generate the code that can be placed on any of your WordPress pages.
+Add a sliding product image carousel on your WordPress integrated Ecommerce Templates site. Choose between showing products from a specific category, products marked as recommended or from the whole store and generate the code that can be placed on any of your WordPress pages.
 
 Please note, the ECT Product Carousel plug-in is only available for Ecommerce Templates shopping cart software WordPress integration.
 
@@ -20,7 +20,7 @@ For more details, screenshots and information please visit [Ecommerce Templates 
 
 **Key Features**
 
-* Simply generate the code for a Product Carousel
+* Simply generate the code for an Product Carousel
 * Choose to show products from the whole store or individual categories
 * Set the parameters for the slideshow such as speed, pause etc.
 * For responsive designs choose the breakpoints and number of images
@@ -49,7 +49,7 @@ If you have a problem with the plug-in please don't just give it a bad rating or
 
 1. Unzip and upload the folder 'ect-product-carousel' to the '/wp-content/plugins/' directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Go to Add New and choose to show products from the whole store or specify a particular category
+1. Go to Add New and choose to show products from the whole store, recommended products or specify a particular category
 1. Go to Settings and set the parameters for the product images
 1. Copy the shortcode and paste where you want the Product Carousel to appear on your site
 
@@ -81,5 +81,8 @@ No, these are global settings.
 
 == Changelog ==
 
+= 1.1 =
+* Recommended products added November 2013.
+* Out of stock and hidden products removed from carousel.
 = 1.0 =
 * Initial Release. May 3rd 2013.
