@@ -28,7 +28,9 @@
 						$SecArr=$wpdb->get_results("select sectionID,sectionName from sections where sectionName like '".ucwords($frm['sec_id'])."'");
 						$cat=$SecArr[0]->sectionName.' category';
 					}
-					echo ($frm['slide_images_from']=='store') ? 'Whole store' : ucwords($frm['sec_id']);
+					echo (($frm['slide_images_from']=='store') ? 'Whole store' : 
+							(($frm['slide_images_from']=='recom') ? 'Recommended Products' : ucwords($frm['sec_id']))
+						  );
 					?>
 				</td>
 				<?php $p=explode('_',$s->option_name);
@@ -64,5 +66,5 @@ if(isset($_GET['act']) && $_GET['act']=='del')
 	$wpdb->query("delete from ".$wpdb->prefix."options where option_id='".$_GET['id']."'");
 	echo '<script>window.location="admin.php?page=ect_prod&msg=2"</script>';
 }	
-echo do_shortcode('[view_add_to_cart id=pc002]');
+//echo do_shortcode('[view_add_to_cart id=pc002]');
 ?>
